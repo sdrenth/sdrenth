@@ -1,5 +1,12 @@
 # Sander Drenth
 
+![php](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![laravel](https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white)
+![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Vue JS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+
+![stats](https://github-readme-stats.vercel.app/api?username=sdrenth&show_icons=true&theme=darculav)
 <!--
 **sdrenth/sdrenth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
