@@ -1,5 +1,4 @@
-# Sander Drenth
-
+## Sander Drenth
 ![php](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MODX](https://img.shields.io/badge/modx-6CB24A?style=for-the-badge&logo=modx&logoColor=ffffff)
@@ -7,9 +6,18 @@
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Vue JS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
+### Hi there!
+My name is Sander Drenth, lead developer @ [Sterc](https://www.sterc.com) and I enjoy creating challenging PHP web applications using mainly MODx, Laravel & ElasticSearch.
+
+- 🏫 Bachelor of Communication, majored in Web & Mobile Services. Graduated in 2014.
+- 🤓 7+ years of programming experience and still nerding on...
+- 🕹️ Hobbies are playing videogames, cars & programming.
+
 ![stats](https://github-readme-stats.vercel.app/api?username=sdrenth&show_icons=true&theme=darculav)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sdrenth&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sdrenth&layout=compact)
+
+_Note: Most of my code lives in private repositories... 🤐_
 
 [![LinkedIn](https://img.shields.io/badge/View%20Profile-0077B5.svg?&style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sdrenth/)
 <!--
