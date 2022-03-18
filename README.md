@@ -7,7 +7,7 @@
 ![Vue JS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
 ### Hi there!
-My name is Sander Drenth, lead developer @ [Sterc](https://www.sterc.com) and I enjoy creating challenging PHP web applications using mainly MODx, Laravel & ElasticSearch.
+My name is Sander Drenth, lead developer @ <a href="https://www.sterc.com/" target="_blank">Sterc</a> and I enjoy creating challenging PHP web applications using mainly MODx, Laravel & ElasticSearch.
 
 - 🏫 Bachelor of Communication, majored in Web & Mobile Services. Graduated in 2014.
 - 🤓 7+ years of programming experience and still nerding on...
