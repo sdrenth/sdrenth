@@ -10,7 +10,7 @@
 My name is Sander Drenth, lead developer @ <a href="https://www.sterc.com/" target="_blank">Sterc</a> and I enjoy creating challenging PHP web applications using mainly MODx, Laravel & ElasticSearch.
 
 - 🏫 Bachelor of Communication, majored in Web & Mobile Services. Graduated in 2014.
-- 🤓 7+ years of programming experience and still nerding on...
+- 🤓 8+ years of programming experience and still going strong...
 - 🕹️ Hobbies are playing videogames, cars & programming.
 
 ![stats](https://github-readme-stats.vercel.app/api?username=sdrenth&show_icons=true&theme=darculav)
