@@ -7,7 +7,7 @@
 ![Vue JS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
 ### Hi there!
-My name is Sander Drenth, developer @ <a href="https://www.friday.nl/" target="_blank">Webstores Digital Agency</a> and I enjoy creating challenging PHP web applications using mainly Symfony & ElasticSearch.
+My name is Sander Drenth, developer @ <a href="https://www.friday.nl/" target="_blank">Friday Digital Agency</a> and I enjoy creating challenging PHP web applications using mainly Symfony & ElasticSearch.
 
 - 🏫 Bachelor of Communication, majored in Web & Mobile Services. Graduated in 2014.
 - 🤓 8+ years of programming experience and still going strong...
